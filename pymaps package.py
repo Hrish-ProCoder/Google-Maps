@@ -9,3 +9,4 @@
 map1 = pygmaps.maps(17.2156831, 56.03222175623432, 15)
 
 # create the HTML file which includes google map. 
+# Pass the absolute path as an argument.
