@@ -14,3 +14,5 @@ map2 = pygmaps.maps(17.2156831, 56.03222175623432, 15)
 
 maps2.setgrids(17.23, 17.24, 0.001, 
                56.03, 56.04, 0.001)
+
+map2.draw("pygmap2.html")
