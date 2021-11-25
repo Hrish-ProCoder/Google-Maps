@@ -9,3 +9,4 @@ longitude_list = [57.8701919, 58.048457, 58.0413095, 57.886958, 57.825396, 57.84
 for i in range(len(latitude_list)):
  # add a point into a map
 # 1st argument is latitude
+# 2nd argument is longitude
