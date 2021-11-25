@@ -13,3 +13,5 @@ for i in range(len(latitude_list)):
 # 3rd argument is colour of the point showed in thed map
 # using HTML colour code
 # red "# FF0000", Blue "# 0000FF", Green "# 00FF00"
+
+mymap3.addpoint(latitude_list[i], longitude_list[i], "# FF0000")
