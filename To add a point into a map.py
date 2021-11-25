@@ -10,3 +10,4 @@ for i in range(len(latitude_list)):
  # add a point into a map
 # 1st argument is latitude
 # 2nd argument is longitude
+# 3rd argument is colour of the point showed in thed map
