@@ -12,3 +12,4 @@ for i in range(len(latitude_list)):
 # 2nd argument is longitude
 # 3rd argument is colour of the point showed in thed map
 # using HTML colour code
+# red "# FF0000", Blue "# 0000FF", Green "# 00FF00"
