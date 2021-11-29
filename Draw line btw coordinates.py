@@ -9,3 +9,4 @@ path = [(17.343769, 57.999559), (17.307977, 57.048457)]
 # draw a line in b / w the given coordinates
 # 1st argument is list of coordinates
 # 2nd argument is colour of the line
+mymap5.addpath(path, "# 00FF00")
